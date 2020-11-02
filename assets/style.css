@@ -9,3 +9,12 @@ h1 {
 .card-body {
     background-color: turquoise;
 }
+.uv-danger {
+    background-color: red;
+}
+.safe {
+    background-color: green;
+}
+.warning {
+    background-color: yellow;
+}
